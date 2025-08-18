@@ -1,5 +1,5 @@
 # 🔑 Password Generator & Saver  
-A sleek little Tkinter-powered password generator that not only creates strong passwords but also saves them (because let’s be real—you won’t remember them anyway).  
+A sleek little Tkinter-powered password generator that not only creates strong passwords but also saves them (because let’s be real you won’t remember them anyway).  
 
 ## 🎥 Demo
 
