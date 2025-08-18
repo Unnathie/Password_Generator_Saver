@@ -12,13 +12,13 @@ Here’s how the Password Generator looks in action:
   Letters, numbers, and symbols all shuffled into beautiful chaos.  
 
 - 📋 **Auto-Copy to Clipboard**  
-  Because Ctrl+C is too mainstream—your password is ready to paste instantly.  
+  Because Ctrl+C is too mainstream your password is ready to paste instantly.  
 
 - 📝 **Save Credentials**  
   Stores your website, username/email, and generated password in a tidy `passwordsaver.txt` file.  
 
 - 🎨 **Custom UI Theme**  
-  Dark background with soft blue accents—minimalist yet easy on the eyes.  
+  Dark background with soft blue accents minimalist yet easy on the eyes.  
 
 ## 🚀 How to Run
 1. Make sure you have Python 3 installed.  
