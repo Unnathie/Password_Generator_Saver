@@ -31,6 +31,6 @@ Here’s how the Password Generator looks in action:
    python password_generator.py
 ## 📜 License
 
-MIT License — use it, tweak it, share it.
+MIT License : use it, tweak it, share it.
 If this helps you never forget a password again, buy yourself a cookie. 🍪
 
