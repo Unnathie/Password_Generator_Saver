@@ -29,7 +29,6 @@ Here’s how the Password Generator looks in action:
 4. Run:  
    ```bash
    python password_generator.py
-pyperclip
 ## 📜 License
 
 MIT License — use it, tweak it, share it.
