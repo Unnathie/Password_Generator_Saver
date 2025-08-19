@@ -1,26 +1,29 @@
-# 🔑 Password Generator & Saver  
-A sleek little Tkinter-powered password generator that not only creates strong passwords but also saves them (because let’s be real you won’t remember them anyway).  
+# 🔑 Password Manager & Generator
+A sleek little Tkinter-powered password generator that not only creates strong passwords but also saves them (because let’s be real — you won’t remember them anyway).  
 
 ## 🎥 Demo
 
 Here’s how the Password Generator looks in action:
 
-![Password Generator Demo](https://github.com/user-attachments/assets/c05f1e4e-8506-4ae6-a08e-79369248411f)
+![Password Generator Demo](https://github.com/user-attachments/assets/0669cdf4-36dd-47e1-92c6-b1c6b8e4c41d)
 
 ## ✨ Features
 - 🎲 **Randomized Strong Passwords**  
   Letters, numbers, and symbols all shuffled into beautiful chaos.  
 
 - 📋 **Auto-Copy to Clipboard**  
-  Because Ctrl+C is too mainstream your password is ready to paste instantly.  
+  Your password is instantly copied so you can paste it anywhere.  
 
-- 📝 **Save Credentials**  
-  Stores your website, username/email, and generated password in a tidy `passwordsaver.txt` file.  
+- 📝 **Save Credentials Securely**  
+  Stores your website, username/email, and generated password in a structured `passwordsaver.json` file.  
+
+- 🔍 **Search & Autofill**  
+  Instantly find saved credentials, auto-fill them back into the app, and copy your password to the clipboard.  
 
 - 🎨 **Custom UI Theme**  
-  Dark background with soft blue accents minimalist yet easy on the eyes.  
+  Dark background with soft blue accents — minimalist yet easy on the eyes.  
 
-## 🚀 How to Run
+## 🚀 Installation & Usage
 1. Make sure you have Python 3 installed.  
 2. Install dependencies:  
    ```bash
@@ -28,7 +31,8 @@ Here’s how the Password Generator looks in action:
 3. Place an image named **`passwordcreator.png`** in the same folder. (Your app’s logo!)  
 4. Run:  
    ```bash
-   python password_generator.py
+    python updated_password_generator.py
+
 ## 📜 License
 
 MIT License : use it, tweak it, share it.
